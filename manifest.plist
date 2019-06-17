@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://www.bitfox.vip/ImagesList/IOSImages/images57x57.png</string>
+					<string>https://github.com/dragonhn/BitFox/blob/master/icon57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://www.bitfox.vip/ImagesList/IOSImages/images512x512.png</string>
+					<string>https://github.com/dragonhn/BitFox/blob/master/icon512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>BitFox</string>
+				<string>Exchange</string>
 			</dict>
 		</dict>
 	</array>
